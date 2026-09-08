@@ -1,1 +1,3 @@
 essa é a aula 1
+-aprendendo criar tokens
+-aprendendo a enviar arquivos para o GitHub
